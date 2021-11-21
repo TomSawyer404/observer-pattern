@@ -20,7 +20,7 @@
 
 - [观察者模式-Wikipedia](https://zh.wikipedia.org/zh-cn/%E8%A7%82%E5%AF%9F%E8%80%85%E6%A8%A1%E5%BC%8F)
 - [Rust与观察者模式](https://www.bilibili.com/video/BV1gb4y1y7CM?from=search&seid=3738269869142051655&spm_id_from=333.337.0.0)
-- [lpxxn的示例代码](hhttps://github.com/lpxxn/rust-design-pattern/blob/master/behavioral/observer.rs)
+- [lpxxn的示例代码](https://github.com/lpxxn/rust-design-pattern/blob/master/behavioral/observer.rs)
 - [yukihir0的示例代码](https://github.com/yukihir0/rust_design_pattern/blob/master/observer/src/main.rs)
 - [Observer](https://refactoring.guru/design-patterns/observer)
 
